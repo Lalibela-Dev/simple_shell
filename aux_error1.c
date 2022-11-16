@@ -131,9 +131,9 @@
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
-        <meta data-hydrostats="publish">
+       <meta data-hydrostats="publish">
 
-  <meta name="go-import" content="github.com/calebapril/simple_shell git https://github.com/calebapril/simple_shell.git">
+  meta name="go-import" content="github.com/calebapril/simple_shell git https://github.com/calebapril/simple_shell.git">
 
   <meta name="octolytics-dimension-user_id" content="65078408" /><meta name="octolytics-dimension-user_login" content="calebapril" /><meta name="octolytics-dimension-repository_id" content="493676228" /><meta name="octolytics-dimension-repository_nwo" content="calebapril/simple_shell" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="493676228" /><meta name="octolytics-dimension-repository_network_root_nwo" content="calebapril/simple_shell" />
 
