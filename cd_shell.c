@@ -1636,7 +1636,7 @@
           </span>
             <span id="repo-notifications-counter" data-target="notifications-list-subscription-form.socialCount" data-pjax-replace="true" data-turbo-replace="true" title="1" data-view-component="true" class="Counter">1</span>
           <span class="dropdown-caret"></span>
-/summary>
+</summary>
         <details-menu
           class="SelectMenu  "
           role="menu"
